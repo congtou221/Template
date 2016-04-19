@@ -1,0 +1,16 @@
+<!DOCTYPE>
+<html>
+	<head></head>
+	<body>
+		<ul id="container">
+		</ul>
+		<script type="template" id="template-id">
+			<%for(var i = 0 ; i < data.length ; i++){
+				var item = data[i];%>
+				<li>This is <%item.name%>, <%item.age%> years old.</li>
+			<%}%>
+		</script>
+		<script src="../template.js"></script>
+		<script src="index.js"></script>
+	</body>
+</html>
