@@ -1,0 +1,23 @@
+{
+  "name": "mini-template",
+  "version": "1.0.0",
+  "description": "a simple js template engine",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/congtou221/Template.git"
+  },
+  "keywords": [
+    "template",
+    "engine"
+  ],
+  "author": "sixiaohui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/congtou221/Template/issues"
+  },
+  "homepage": "https://github.com/congtou221/Template#readme"
+}
