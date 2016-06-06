@@ -37,3 +37,5 @@ var tplEngine = function(tpl, data){
 
 	return htmlStr;
 };
+
+module.exports = tplEngine;

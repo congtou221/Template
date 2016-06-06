@@ -14,10 +14,17 @@
     "template",
     "engine"
   ],
-  "author": "sixiaohui",
+  "author": {
+    "name": "sixiaohui"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/congtou221/Template/issues"
   },
-  "homepage": "https://github.com/congtou221/Template#readme"
+  "homepage": "https://github.com/congtou221/Template#readme",
+  "gitHead": "753b35337317ebc79fbe26c545a8c7af5959e6e3",
+  "readme": "ERROR: No README data found!",
+  "_id": "mini-template@1.0.0",
+  "_shasum": "7dd8f343d62999b7ef2f063538a04093e63159ec",
+  "_from": "mini-template@>=1.0.0 <2.0.0"
 }
